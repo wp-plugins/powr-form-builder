@@ -102,6 +102,12 @@ Upgrading removes all POWr watermarks, speeds up widget loading speed, gets you 
 6. Example
 7. Example
 
+== Upgrade Notice ==
+
+= 1.0 =
+First released version.
+
+
 == Changelog ==
 
 = 1.0 =
