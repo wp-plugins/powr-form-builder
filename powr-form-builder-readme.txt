@@ -8,7 +8,7 @@ Stable tag: 1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-SHORT DESCRIPTION
+POWr Form Builder allows you to create beautiful, mobile-responsive forms that you can edit **right in the page**. Add the widget to your site, or use the shortcode **[powr-form-builder]** to add forms to any post. 
 
 == Description ==
 
@@ -94,11 +94,13 @@ Upgrading removes all POWr watermarks, speeds up widget loading speed, gets you 
 
 == Screenshots ==
 
-1. This screen shot description corresponds to screenshot-1.(png|jpg|jpeg|gif). Note that the screenshot is taken from
-the /assets directory or the directory that contains the stable readme.txt (tags or trunk). Screenshots in the /assets 
-directory take precedence. For example, `/assets/screenshot-1.png` would win over `/tags/4.3/screenshot-1.png` 
-(or jpg, jpeg, gif).
-2. This is the second screen shot
+1. Example
+2. Example
+3. Example
+4. Example
+5. Example
+6. Example
+7. Example
 
 == Changelog ==
 
