@@ -8,7 +8,7 @@ Stable tag: 1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-POWr Form Builder allows you to create beautiful, mobile-responsive forms that you can edit **right in the page**. Add the widget to your site, or use the shortcode **[powr-form-builder]** to add forms to any post. 
+POWr Form Builder allows you to create beautiful, mobile-responsive forms that you can edit right in the page. Add the widget to your site, or use the shortcode [powr-form-builder] to add forms to any post. 
 
 == Description ==
 
