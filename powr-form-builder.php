@@ -6,7 +6,7 @@
     /*
     Plugin Name: POWr Form Builder
     Plugin URI: http://www.powr.io
-    Description: This easy way to create fully customized forms for surveys, polls, feedback, or any purpose. Add the widget to your theme, or create a Form Builder on ANY page or post by using the shortcode [powr-form-builder]. Then, simply visit your site and click the settings icon to customize your Form Builder right in the page. Many more plugins & tutorials at POWr.io.
+    Description: The easy way to create fully customized forms for surveys, polls, feedback, or any purpose. Add the widget to your theme, or create a Form Builder on ANY page or post by using the shortcode [powr-form-builder]. Then, simply visit your site and click the settings icon to customize your Form Builder right in the page. Many more plugins & tutorials at POWr.io.
     Author: POWr.io
     Version: 1.0
     Author URI: http://www.powr.io
