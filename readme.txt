@@ -2,9 +2,9 @@
 ===POWr Form Builder===
 Contributors: powr
 Donate link: http://powr.io/
-Tags: form, form builder, free form-builder, form creator, form maker, survey, poll, contact form, mailing list signup, event registration, sales lead, feedback form, form widget, form plugin, mobile responsive
+Tags: form, form builder, free form builder, form creator, form maker, survey, poll, contact form, mailing list signup, event registration, sales lead, feedback form, form widget, form plugin, mobile responsive
 Requires at least: 3.0
-Tested up to: 3.9
+Tested up to: 4.0
 Stable tag: 1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
