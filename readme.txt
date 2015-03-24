@@ -5,7 +5,7 @@ Donate link: http://powr.io/
 Tags: form, form builder, free form builder, form creator, form maker, survey, poll, contact form, mailing list signup, event registration, sales lead, feedback form, form widget, form plugin, mobile responsive, subscription, analytics dashboard, RSVP, dynamic, order form, html form, online forms, form creator, application form, newsletter, quiz, quizzes, support, small business, email, contact, spam, CAPTCHA, analytics, data, database, themes, feedback, registration, Contact form, customer satisfaction survey, event registration, job application, online quiz, sales lead form, donation form, subscribe to newsletter, online poll, testimonial form, support request, responsive web design, personalize, optimize, customize, ecommerce, sidebar, drag and drop, WYSIWYG 
 Requires at least: 3.0
 Tested up to: 4.1
-Stable tag: 1.1
+Stable tag: 1.4
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -95,6 +95,8 @@ Improved loading speed
 = 1.3 =
 Easily add POWr plugins right from the text editor.
 
+= 1.4 =
+Improved functionality within the wp text editor.
 
 
 == Changelog ==
@@ -109,5 +111,8 @@ Easily add POWr plugins right from the text editor.
 
 = 1.3 =
 Easily add POWr plugins right from the text editor.
+
+= 1.4 =
+Improved functionality within the wp text editor.
 
 
