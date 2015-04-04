@@ -12,7 +12,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Simple, beautiful forms in seconds!
 
 == Description ==
-[youtube https://youtu.be/JSGEf6pigEs] Simple, beautiful forms in seconds!
+[youtube https://www.youtube.com/watch?v=JSGEf6pigEs] Simple, beautiful forms in seconds!
 <br>
 <br>
 POWr Form Builder is a free cloud-based plugin you can edit in your live web page.  Create a POWr account to access the entire <a href='https://www.powr.io/plugins'>plugin library</a>.
