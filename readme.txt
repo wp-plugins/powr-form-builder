@@ -2,7 +2,7 @@
 ===POWr Form Builder===
 Contributors: powr
 Donate link: http://powr.io/
-Tags: form, form builder, free form builder, form creator, form maker, survey, poll, contact form, mailing list signup, event registration, sales lead, feedback form, form widget, form plugin, mobile responsive, subscription, analytics dashboard, RSVP, dynamic, order form, html form, online forms, form creator, application form, newsletter, quiz, quizzes, support, small business, email, contact, spam, CAPTCHA, analytics, data, database, themes, feedback, registration, Contact form, customer satisfaction survey, event registration, job application, online quiz, sales lead form, donation form, subscribe to newsletter, online poll, testimonial form, support request, responsive web design, personalize, optimize, customize, ecommerce, sidebar, drag and drop, WYSIWYG 
+Tags: form, form builder, free form builder, form creator, form maker, survey, poll, contact form, mailing list signup, event registration, sales lead, feedback form, form widget, form plugin, mobile responsive, subscription, analytics dashboard, RSVP, dynamic, order form, html form, online forms, form creator, application form, newsletter, quiz, quizzes, support, small business, email, contact, spam, CAPTCHA, analytics, data, database, themes, feedback, registration, Contact form, customer satisfaction survey, event registration, job application, online quiz, sales lead form, donation form, subscribe to newsletter, online poll, testimonial form, support request, responsive web design, personalize, optimize, customize, ecommerce, sidebar, drag and drop, WYSIWYG, membership form, recurring payments
 Requires at least: 3.0
 Tested up to: 4.1
 Stable tag: 1.4
@@ -23,14 +23,16 @@ First, download, install, and activate POWr Form Builder. Then drop the widget a
 = <a href='http://www.powr.io/tutorials/how-to-add-form-builder-plugin-to-your-wordpress-site'>2 MINUTE INSTALL</a> =
 <br>
 = Free Features =
-* Accept payments through PayPal.
-* Easy inputs for text, dropdowns, checkboxes, email, date, and more.
-* Choose from expert-designed templates or take control with custom fonts, colors, backgrounds, and more.
-* Automatically receive email notifications and send custom “thank you” messages when Forms are submitted.
-* Automatically store responses for analysis and export.
-* Choose between optional or required input fields.
+* Accept payments and donations through PayPal.
+* Create recurring payments for memberships and subscriptions.
+* Add inputs for text, dropdowns, checkboxes, email, date, and more.
+* Use expert-designed templates or start from scratch.
+* Custom fonts, colors, borders, backgrounds, and more.
+* Receive automatic email notifications and store responses for analysis and export.  
+* Display custom “thank you” messages when forms are submitted.
+* Choose between optional or required input fields. 
 * Built-in support for text in any language.
-* Mobile responsive design looks great on any device.
+* Mobile responsive design looks great on any device. 
 <br>
 = Upgrade ($3.99)/mo and: =
 * Eliminate all POWr logos and watermarks
