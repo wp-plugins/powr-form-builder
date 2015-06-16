@@ -37,9 +37,9 @@ First, download, install, and activate POWr Form Builder. Then drop the widget a
 
 = Upgrade ($3.99)/mo and: =
 * Eliminate all POWr logos and watermarks
-* Automatically send form responses to multiple email addresses.
-* Choose to clear form, lock form, hide form, or redirect to a new page after user submission.
-* Allow users to upload images, documents, audio, and more.
+* Send form responses to multiple admins
+* Clear, lock, hide, or redirect after submit
+* Accept file uploads
 * Enable plugin analytics to measure visitors and page views
 * Receive premium POWr support
 * Support the development of other great plugins
