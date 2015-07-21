@@ -39,6 +39,7 @@ First, download, install, and activate POWr Form Builder. Then drop the widget a
 * Eliminate all POWr logos and watermarks
 * Send form responses to multiple admins
 * Clear, lock, hide, or redirect after submit
+* Block repeat submissions from user
 * Accept file uploads
 * Enable plugin analytics to measure visitors and page views
 * Receive premium POWr support
